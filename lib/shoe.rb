@@ -17,4 +17,5 @@ class Shoe
 
   def brand_method (brand)
     BRANDS << brand
+  end
 end
